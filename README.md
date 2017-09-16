@@ -1,6 +1,6 @@
 INTRODUCTION
 
-This is a json project for doing all the json things here.
+This is a java collection project for doing all the collection things here.
 
 PROFILE
 
